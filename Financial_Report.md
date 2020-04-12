@@ -1,9 +1,10 @@
 # api-homework
-In this section, you will compile a financial report to demo your calculations to the consumer app team. The report should be written as a markdown file and include the following sections:
+## Financial Report for Client ###
+### Budget Analysis: 
 
-*** Budget Analysis: ***
 In the past 90 days the top spending categories are transfers at about $20000, payments at about $6000, and food and drink at about $3000. The spending per month is about $10,500 on average. The third month had the highest spending at $11145. Based on an income analysis, the clients income last year was $6000 and their projected income is $6085. The monthly income is $500. Not sure how this client is able to spend so much when the annual income is so low. The budget analysis is showing they spend much more than they can afford to.
-*** Retirement Planning: ***
+
+### Retirement Planning: 
 A portfolio with 60% SPY and 40% AGG was analyzed for the client over a 30 year time span with a Monte Carlo simulation. The client was assumed to only be able to invest $20000 to start in the portfolio.
 
 This specific retirement portfolio is not adequate at the 10th percentile at 30 years to provide for the expected annual income of $6805 with a withdraw of 4% from the portfolio.
